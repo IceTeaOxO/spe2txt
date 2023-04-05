@@ -7,3 +7,5 @@
 pip install -r requirements.txt
 ```
 直接運行程式就會開始錄音，錄完一句之後按下Enter繼續錄音，若要離開則按下q然後在按下Enter即可終止程式
+
+開發環境式python3.11.1，若要順利運行建議版本不低於python3.7
